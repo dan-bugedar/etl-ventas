@@ -1,0 +1,9 @@
+# Entornos virtuales aislados
+.venv/
+
+# Caché interna de compilación de Python
+__pycache__/
+*.pyc
+
+# Registros de ejecución de frameworks de testing
+.pytest_cache/
